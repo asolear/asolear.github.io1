@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/77598.c59d4de3.chunk.js","mappings":"gIAAA,MAIA,EAJe,CAEXA,QAAS,gC","sources":["components/configURL.jsx"],"sourcesContent":["const config = {\n    // API_URL: \"http://0.0.0.0:8000\",\n    API_URL: \"https://caeserver.duckdns.org\",\n};\nexport default config;\n"],"names":["API_URL"],"sourceRoot":""}
